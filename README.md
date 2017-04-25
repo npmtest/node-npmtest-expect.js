@@ -1,6 +1,6 @@
 # npmtest-expect.js
 
-#### test coverage for  [expect.js (v0.3.1)](https://github.com/LearnBoost/expect.js)  [![npm package](https://img.shields.io/npm/v/npmtest-expect.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-expect.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-expect.js.svg)](https://travis-ci.org/npmtest/node-npmtest-expect.js)
+#### basic test coverage for  [expect.js (v0.3.1)](https://github.com/LearnBoost/expect.js)  [![npm package](https://img.shields.io/npm/v/npmtest-expect.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-expect.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-expect.js.svg)](https://travis-ci.org/npmtest/node-npmtest-expect.js)
 
 #### BDD style assertions for node and the browser.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-expect.js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-expect.js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-expect.js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-expect.js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-expect.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-expect.js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-expect.js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-expect.js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-expect.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-expect.js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-expect.js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-expect.js/build/coverage.html/index.html)
 
@@ -61,7 +61,8 @@
         "type": "git",
         "url": "git://github.com/LearnBoost/expect.js.git"
     },
-    "version": "0.3.1"
+    "version": "0.3.1",
+    "bin": {}
 }
 ```
 
